@@ -10,3 +10,4 @@ Daily LeetCode practice in Java
 | 3 | 04 Jan 2026 | Loops | [Count the Digits That Divide a Number (#2520)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/count_digits_that_divide.java) | ✅ |
 | 4 | 05 Jan 2026 | Number Systems | [Sum of digits in base K(#1837)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Sum_of_Base.java)| ✅ |
 | 5 | 06 Jan 2026 | Functions | [Palindrome number(#9)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/palindrome_num.java)| ✅ |
+| 6 | 07 Jan 2026 | Functions | [Power of Two(#9)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/power_of_two.java)| ✅ |
