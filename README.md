@@ -12,3 +12,4 @@ Daily LeetCode practice in Java
 | 5 | 06 Jan 2026 | Functions | [Palindrome number(#9)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/palindrome_num.java)| ✅ |
 | 6 | 07 Jan 2026 | Functions | [Power of Two(#231)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/power_of_two.java)| ✅ |
 | 7 | 08 Jan 2026 | Functions | [Power of four(#342)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Power_of_four.java)| ✅ |
+| 8 | 09 Jan 2026 | Functions | [Ugly Number(#643)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/ugly_number.java)| ✅ |
