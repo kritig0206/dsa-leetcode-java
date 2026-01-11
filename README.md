@@ -14,3 +14,4 @@ Daily LeetCode practice in Java
 | 7 | 08 Jan 2026 | Functions | [Power of four(#342)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Power_of_four.java)| ✅ |
 | 8 | 09 Jan 2026 | Functions | [Ugly Number(#643)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/ugly_number.java)| ✅ |
 | 9 | 10 Jan 2026 | Functions | [Perfect Number(#507)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Perfect_Number.java)| ✅ |
+| 10 | 11 Jan 2026 | Functions | [Valid Square(#367)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Valid_num.java)| ✅ |
