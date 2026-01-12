@@ -15,3 +15,4 @@ Daily LeetCode practice in Java
 | 8 | 09 Jan 2026 | Functions | [Ugly Number(#643)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/ugly_number.java)| ✅ |
 | 9 | 10 Jan 2026 | Functions | [Perfect Number(#507)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Perfect_Number.java)| ✅ |
 | 10 | 11 Jan 2026 | Functions | [Valid Square(#367)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Valid_num.java)| ✅ |
+| 11 | 12 Jan 2026 | Arrays | [Build Array from Permutation(#1920)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Build_array.java)| ✅ |
