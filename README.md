@@ -18,3 +18,4 @@ Daily LeetCode practice in Java
 | 11 | 12 Jan 2026 | Arrays | [Build Array from Permutation(#1920)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Build_array.java)| ✅ |
 | 12 | 13 Jan 2026 | Arrays | [Running sum of an array(#1480)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Valid_num.java)| ✅ |
 | 13 | 14 Jan 2026 | Arrays | [Kids with Greatest number of candies(#1431)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/kids_candies.java)| ✅ |
+| 14 | 15 Jan 2026 | Arrays | [Shuffle Array(#1470)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Shuffle_array.java)| ✅ |
