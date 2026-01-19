@@ -22,3 +22,4 @@ Daily LeetCode practice in Java
 | 15 | 16 Jan 2026 | Arrays | [Concatenation of array(#1929)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Concatenation_of_Array.java)| ✅ |
 | 16 | 17 Jan 2026 | Arrays | [Move Zeroes(#283)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/move_zeroes.java)| ✅ |
 | 17 | 18 Jan 2026 | Arrays | [Find Numbers with even number of digits(#1295)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Even_Number_Of_Digits.java)| ✅ |
+| 18 | 19 Jan 2026 | Arrays | [Largest Number At Least twice of others(#747)]()| ✅ |
