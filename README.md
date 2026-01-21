@@ -24,3 +24,4 @@ Daily LeetCode practice in Java
 | 17 | 18 Jan 2026 | Arrays | [Find Numbers with even number of digits(#1295)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Even_Number_Of_Digits.java)| ✅ |
 | 18 | 19 Jan 2026 | Arrays | [Largest Number At Least twice of others(#747)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Largest_Number.java)| ✅ |
 | 19 | 20 Jan 2026 | Arrays | [Valid Mountain array(#941)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Largest_Number.java)| ✅ |
+| 20 | 20 Jan 2026 | Two pointer approach | [Remove duplicates(#26)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Remove_Duplicated_Arrays.java)| ✅ |
