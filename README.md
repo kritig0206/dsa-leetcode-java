@@ -25,3 +25,4 @@ Daily LeetCode practice in Java
 | 18 | 19 Jan 2026 | Arrays | [Largest Number At Least twice of others(#747)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Largest_Number.java)| ✅ |
 | 19 | 20 Jan 2026 | Arrays | [Valid Mountain array(#941)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Largest_Number.java)| ✅ |
 | 20 | 21 Jan 2026 | Two pointer approach | [Remove duplicates(#26)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Remove_Duplicated_Arrays.java)| ✅ |
+| 21 | 22 Jan 2026 | Two pointer approach | [Remove element(#27)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Remove_element.java)| ✅ |
