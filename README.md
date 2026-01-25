@@ -26,3 +26,7 @@ Daily LeetCode practice in Java
 | 19 | 20 Jan 2026 | Arrays | [Valid Mountain array(#941)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Largest_Number.java)| ✅ |
 | 20 | 21 Jan 2026 | Two pointer approach | [Remove duplicates(#26)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Remove_Duplicated_Arrays.java)| ✅ |
 | 21 | 22 Jan 2026 | Two pointer approach | [Remove element(#27)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Remove_element.java)| ✅ |
+| 22 | 23 Jan 2026 | Arrays | [Squares of a sorted array(#977)]()| ✅ |
+| 23 | 24 Jan 2026 | Arrays | [Rotate array(#189)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Rotate_Array.java)| ✅ |
+| 24 | 25 Jan 2026 | Arrays | [Number of Good Pairs(#1512)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/good_pairs.java)| ✅ |
+
