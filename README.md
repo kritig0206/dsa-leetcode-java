@@ -30,3 +30,4 @@ Daily LeetCode practice in Java
 | 23 | 24 Jan 2026 | Arrays | [Rotate array(#189)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Rotate_Array.java)| ✅ |
 | 24 | 25 Jan 2026 | Arrays | [Number of Good Pairs(#1512)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/good_pairs.java)| ✅ |
 | 25 | 26 Jan 2026 | Arrays | [Find pivot index(#724)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/pivot_index.java)| ✅ |
+| 26 | 27 Jan 2026 | List | [Fizz Buzz(#412)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/fizz_buzz.java)| ✅ |
