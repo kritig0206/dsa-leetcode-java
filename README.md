@@ -33,3 +33,5 @@ Daily LeetCode practice in Java
 | 26 | 27 Jan 2026 | List | [Fizz Buzz(#412)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/fizz_buzz.java)| ✅ |
 | 27 | 28 Jan 2026 | Arrays | [Check if N and its Double Exists(#1346)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/check_double.java)| ✅ |
 | 28 | 29 Jan 2026 | Prefix Sum | [Find the Highest Altitude(#1732)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/check_double.java)| ✅ |
+| 29 | 30 Jan 2026 | Sorting | [Intersection of two Arrays(#349)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Intersection_of_two_arrays.java)| ✅ |
+| 30 | 31 Jan 2026 | Sorting | [Contains Duplicate(#217)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Contains_duplicate.java)| ✅ |
