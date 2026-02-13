@@ -35,6 +35,10 @@ Daily LeetCode practice in Java
 | 28 | 29 Jan 2026 | Prefix Sum | [Find the Highest Altitude(#1732)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/check_double.java)| ✅ |
 | 29 | 30 Jan 2026 | Sorting | [Intersection of two Arrays(#349)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Intersection_of_two_arrays.java)| ✅ |
 | 30 | 31 Jan 2026 | Sorting | [Contains Duplicate(#217)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Contains_duplicate.java)| ✅ |
-| 31 | 1 Feb 2026 | Array loops | [Two sum(#1)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Two_Sum.java)| ✅ 
-| 32 | 2 Feb 2026 | Kadannes| [Maximum Subarray(#53)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Maximum_Subarray.java)| ✅ 
-| 32 | 3 Feb 2026 | Kadannes | [Best Time to Buy and Sell Stock(#121)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/stock.java)| ✅ 
+| 31 | 9 Feb 2026 | Array loops | [Two sum(#1)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Two_Sum.java)| ✅ 
+| 32 | 9 Feb 2026 | Kadannes| [Maximum Subarray(#53)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Maximum_Subarray.java)| ✅ 
+| 32 | 9 Feb 2026 | Kadannes | [Best Time to Buy and Sell Stock(#121)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/stock.java)| ✅ 
+| 33 | 13 Feb 2026 | Binary Search | [Binary Search(#704)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Binary_Search.java)| ✅
+| 34 | 13 Feb 2026 | Binary Search | [Squrt(#69)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/squrt.java)| ✅
+| 35 | 13 Feb 2026 | Binary Search | [Search Insert Position(#35)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Search_Insert_Position.java)| ✅
+| 36 | 13 Feb 2026 | Binary Search | [Guess number Higher or Lower(#374)]()| ✅
