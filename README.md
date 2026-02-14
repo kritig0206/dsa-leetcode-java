@@ -42,3 +42,4 @@ Daily LeetCode practice in Java
 | 34 | 13 Feb 2026 | Binary Search | [Squrt(#69)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/squrt.java)| ✅
 | 35 | 13 Feb 2026 | Binary Search | [Search Insert Position(#35)](https://github.com/kritig0206/dsa-leetcode-java/blob/main/Search_Insert_Position.java)| ✅
 | 36 | 13 Feb 2026 | Binary Search | [Guess number Higher or Lower(#374)]()| ✅
+| 36 | 13 Feb 2026 | Binary Search | [First Bad Version(#278)]()| ✅
