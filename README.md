@@ -46,3 +46,6 @@ Daily LeetCode practice in Java
 | 38 | 2D Arrays | Richest Customer Wealth (#1672) | ✅ |
 | 39 | Binary Search | Guess Number Higher or Lower (#374) | ✅ |
 | 40 | Binary Search | First Bad Version (#278) | ✅ |
+| 41 | Strings | Reverse String (#344) | ✅ |
+| 42 | Strings | Reverse Words in a String (#151) | ✅ |
+| 43 | Strings | Longest Common Prefix(#14) | ✅ |
