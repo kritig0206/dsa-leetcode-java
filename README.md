@@ -49,4 +49,8 @@ Daily LeetCode practice in Java
 | 41 | Strings | Reverse String (#344) | ✅ |
 | 42 | Strings | Reverse Words in a String (#151) | ✅ |
 | 43 | Strings | Longest Common Prefix(#14) | ✅ |
-| 43 | Strings | Merge Strings alternatively(#1768) | ✅ |
+| 44 | Strings | Merge Strings alternatively(#1768) | ✅ |
+| 45 | Strings |Valid Anagram(#242) | ✅ |
+| 46 | Strings | To lowercase (#709) | ✅ |
+
+
