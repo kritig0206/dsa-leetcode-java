@@ -52,5 +52,5 @@ Daily LeetCode practice in Java
 | 44 | Strings | Merge Strings alternatively(#1768) | ✅ |
 | 45 | Strings |Valid Anagram(#242) | ✅ |
 | 46 | Strings | To lowercase (#709) | ✅ |
-
+| 47 | Strings | Shuffle String (#1528) | ✅ |
 
