@@ -53,4 +53,4 @@ Daily LeetCode practice in Java
 | 45 | Strings |Valid Anagram(#242) | ✅ |
 | 46 | Strings | To lowercase (#709) | ✅ |
 | 47 | Strings | Shuffle String (#1528) | ✅ |
-
+| 48 | Array | Plus one (#66) | ✅ |
