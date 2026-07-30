@@ -54,3 +54,4 @@ Daily LeetCode practice in Java
 | 46 | Strings | To lowercase (#709) | ✅ |
 | 47 | Strings | Shuffle String (#1528) | ✅ |
 | 48 | Array | Plus one (#66) | ✅ |
+| 49 | Recursion | Fibonacci Number (#509) | ✅ |
